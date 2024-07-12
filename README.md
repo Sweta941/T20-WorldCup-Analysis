@@ -1,1 +1,1 @@
-# T20-WorldCup-Analysis
+•	Developed a T20 WorldCup Analysis: Analysed a dataset of 13,000 rows to evaluate and rank the performance of batsmen and bowlers. Utilized SQL functions including count, group by, order by, join, rank, and str_to_date. Assessed metrics such as average, strike rate, economy rate, and wickets taken. Delivered data-driven insights to enhance team strategy and player selection. 
