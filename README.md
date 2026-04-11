@@ -139,3 +139,7 @@ WHERE DAYNAME(Match_Date) IN ('Saturday', 'Sunday');
 - Analysis designed for SQL learning and sports analytics practice.
 
 ---
+## 👤 Author
+
+**[Sweta Mehta]**  
+ 
