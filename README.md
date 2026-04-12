@@ -13,14 +13,9 @@ A comprehensive SQL-based data analysis project on the **ICC T20 World Cup 2022*
 ```
 T20_WorldCup_2022/
 │
-├── T20_WorldCup_Analysis.sql   # Main SQL script with all queries
-├── README.md                   # Project documentation
-└── data/
-    ├── bating_summary          # Ball-by-ball batting records
-    ├── bowling_summary         # Bowling figures per match
-    ├── match_summary           # Match-level results & metadata
-    └── t20_players_2022        # Player profiles & playing roles
-```
+├── T20_WorldCup_Analysis.sql             # Main SQL script with all queries
+├── README.md                             # Project documentation
+└── T20_WorldCup_2022_ Analysis_(PPT)     # Project PPT
 
 ---
 
