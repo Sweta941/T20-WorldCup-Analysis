@@ -139,6 +139,3 @@ WHERE DAYNAME(Match_Date) IN ('Saturday', 'Sunday');
 **[Sweta Mehta]**  
 
 Data Analyst 
-
-
-
